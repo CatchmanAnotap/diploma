@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:showIn="navigation_view">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/nav_poster"
+            android:icon="@drawable/ic_menu_gallery"
+            android:title="Афіша" />
+        <item
+            android:id="@+id/nav_news"
+            android:icon="@drawable/newspaper"
+            android:title="Новини" />
+        <item
+            android:id="@+id/nav_find_room"
+            android:icon="@drawable/ic_search"
+            android:title="Знайти аудиторію" />
+    </group>
+
+    <item android:title="Інформація">
+        <menu>
+            <item
+                android:id="@+id/nav_schedule"
+                android:title="Розклад"
+                android:icon="@drawable/ic_data_rate" />
+            <item
+                android:id="@+id/nav_info"
+                android:title="Контакти"
+                android:icon="@drawable/ic_info" />
+        </menu>
+
+    </item>
+
+</menu>

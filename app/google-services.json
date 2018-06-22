@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "621573004445",
+    "firebase_url": "https://tests-1518716005252.firebaseio.com",
+    "project_id": "tests-1518716005252",
+    "storage_bucket": "tests-1518716005252.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:621573004445:android:f05024613ff84182",
+        "android_client_info": {
+          "package_name": "com.example.catchman.studlife"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "621573004445-mo5mfvchvqjqesgrnkipofe29l60ffum.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.catchman.studlife",
+            "certificate_hash": "d9fb8a9562a157f05c80a11237a22dbde47586c0"
+          }
+        },
+        {
+          "client_id": "621573004445-prvidjmo5r4rera9c7r4e0g9pnh0f8ld.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBUjEFzfhu-vzXtzoJRgOlRJ2EN8Rm75k8"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "621573004445-prvidjmo5r4rera9c7r4e0g9pnh0f8ld.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
